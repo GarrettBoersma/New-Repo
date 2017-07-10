@@ -1,2 +1,2 @@
-# New-Repo
-Creating my first repo
+# Garretts First repo
+Just the readme for this doc pretty cool I know

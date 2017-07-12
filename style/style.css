@@ -30,6 +30,11 @@ av ul {
 	padding: 0;
 }
 
+nav ul li:hover {
+	background-color: yellow;
+	color: black;
+}
+
 nav ul li{
 	float: left;
 }

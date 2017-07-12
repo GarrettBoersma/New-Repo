@@ -17,9 +17,11 @@ h1 {
 	text-align: center;
 }
 
+
 nav {
 	position: absolute;
-	right: 10px
+	right: 10px;
+	background-color: purple;
 }
 
 av ul {
@@ -36,4 +38,5 @@ nav ul li a {
 	display: block;
 	padding: 0 5px;
 	text-decoration: none;
+	color: white;
 }

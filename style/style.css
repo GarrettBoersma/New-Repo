@@ -26,6 +26,9 @@ nav ul {
 
 nav ul li:hover {
 	background-color: yellow;
+}
+
+nav ul li a:hover {
 	color: black;
 }
 

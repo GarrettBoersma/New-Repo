@@ -21,3 +21,19 @@ nav {
 	position: absolute;
 	right: 10px
 }
+
+av ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li{
+	float: left;
+}
+
+nav ul li a {
+	display: block;
+	padding: 0 5px;
+	text-decoration: none;
+}

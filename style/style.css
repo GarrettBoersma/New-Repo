@@ -5,6 +5,10 @@
 	color: purple;
 }
 
+#big  {
+	font-size: 60px;
+}
+
 h1 {
 	width: 50%;
 	margin: 0 25%;
